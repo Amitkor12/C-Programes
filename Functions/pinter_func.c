@@ -1,3 +1,6 @@
+//passing the adreess of varial as function
+//arguments.
+
 #include<stdio.h>
  
  int sum(int *n1,int *n2) //function with pointer as arguments
